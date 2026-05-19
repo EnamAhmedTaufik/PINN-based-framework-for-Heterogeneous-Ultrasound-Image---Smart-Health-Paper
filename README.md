@@ -95,7 +95,15 @@ pip install -r requirements.txt
 ---
 
 ## Citation
-*To be updated*
+Enam Ahmed Taufik, Antara Firoz Parsa, Abdullah Khondoker, Jia Uddin,
+A physics-aware deep learning framework for heterogeneous ultrasound image classification,
+Smart Health,
+Volume 41,
+2026,
+100662,
+ISSN 2352-6483,
+https://doi.org/10.1016/j.smhl.2026.100662.
+(https://www.sciencedirect.com/science/article/pii/S2352648326000309)
 
 ---
 
